@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dc7cf69ef93503a92f0fa53baf180f0",
+    "revision": "fff161f6c0703e119bc9f7ed7b24a917",
     "url": "/index.html"
   },
   {
-    "revision": "a268c137a664c1678f2e",
-    "url": "/static/css/main.5ef67bfc.chunk.css"
+    "revision": "1e24750282bcaf0da4b7",
+    "url": "/static/css/main.dc2def82.chunk.css"
   },
   {
-    "revision": "c9151440ecff805d7ac6",
-    "url": "/static/js/2.618c73d2.chunk.js"
+    "revision": "3cba892ee4da82a13aab",
+    "url": "/static/js/2.fb74bb2b.chunk.js"
   },
   {
-    "revision": "807c71cdcc95c32660a45b4eeb32cb03",
-    "url": "/static/js/2.618c73d2.chunk.js.LICENSE.txt"
+    "revision": "128ebc23865648e779e63b9064e710c1",
+    "url": "/static/js/2.fb74bb2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a268c137a664c1678f2e",
-    "url": "/static/js/main.b4536131.chunk.js"
+    "revision": "1e24750282bcaf0da4b7",
+    "url": "/static/js/main.3bffd840.chunk.js"
   },
   {
     "revision": "ac8f00bf5896bbe51c57",
@@ -56,6 +56,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Lato-Light.cf44fd55.ttf"
   },
   {
+    "revision": "314210a4825a7cc8ca7db893dfd9d283",
+    "url": "/static/media/Lato-LightItalic.314210a4.woff2"
+  },
+  {
+    "revision": "7865ec9dc1b26d5447c722f5c2023687",
+    "url": "/static/media/Lato-LightItalic.7865ec9d.ttf"
+  },
+  {
+    "revision": "7be5435e82c853b13cae85af56abf815",
+    "url": "/static/media/Lato-LightItalic.7be5435e.eot"
+  },
+  {
+    "revision": "b55e385f24f0f9f724dac935fe292ecf",
+    "url": "/static/media/Lato-LightItalic.b55e385f.woff"
+  },
+  {
     "revision": "27bd77b9162d388cb8d4c4217c7c5e2a",
     "url": "/static/media/Lato-Regular.27bd77b9.woff"
   },
@@ -70,5 +86,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd03a2cc277bbbc338d464e679fe9942",
     "url": "/static/media/Lato-Regular.bd03a2cc.woff2"
+  },
+  {
+    "revision": "fae262c3ef03b041f477ba5282c99beb",
+    "url": "/static/media/logo.fae262c3.svg"
+  },
+  {
+    "revision": "32b1590ee3bbcbdd1d9a3cb318939426",
+    "url": "/static/media/profile.32b1590e.svg"
   }
 ]);
